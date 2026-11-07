@@ -1,6 +1,6 @@
 # Course Lab Setup Guide
 
-This runbook provides validated, error-free installation instructions to set up your local development and virtualization environment for the **Active Directory Deep Dive** course.
+This runbook provides validated, error-free installation instructions to set up your local development and virtualization environment for the **Active Directory Deep Dive** course. For course lab introduction and high-level Github instructions, review the **[repo Readme file](https://github.com/cloudschoolai/udemy-activedirectory-part1/blob/main/README.md)**.
 
 ---
 
