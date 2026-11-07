@@ -51,7 +51,7 @@ cd udemy-activedirectory-part1
 ```
 Configure Your Lab Environment:
   
-Head over to the **Lab Setup Guide** for full, step-by-step instructions on provisioning your Ubuntu KVM host, Azure Bicep environment, and PowerShell runtimes.
+Head over to the **[Lab Setup Guide](https://github.com/cloudschoolai/udemy-activedirectory-part1/blob/main/runbooks/lab-setup.md)** for full, step-by-step instructions on provisioning your Ubuntu KVM host, Azure Bicep environment, and PowerShell runtimes.
 
 ## 🛡️ License & Usage
 This repository is provided as companion material for students enrolled in the cloudschool.ai Active Directory series on Udemy. All scripts and runbooks are provided "as-is" under the MIT License for educational and professional use.
